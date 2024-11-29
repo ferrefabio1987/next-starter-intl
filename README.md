@@ -55,13 +55,13 @@ This repository provides a ready-to-use boilerplate for initializing a Next.js p
 ├── /app/components # Reusable components
 ├── .eslintrc.json  # ESLint configuration
 ├── .prettierrc     # Prettier configuration
-├── next.config.js  # Next.js configuration
+├── next.config.mjs # Next.js configuration
 └── README.md       # Project documentation
 ```
 
 ## 🌍 Internationalization with next-intl
 
-The project uses next-intl to handle internationalization. Translation files are stored in the /locales folder, organized by language code (e.g., en, it).
+The project uses next-intl to handle internationalization. Translation files are stored in the /messages folder, organized by language code (e.g., en, it).
 
 Example
 Add a translation key to /messages/en.json:
