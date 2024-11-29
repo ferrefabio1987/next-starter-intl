@@ -18,7 +18,7 @@ This repository provides a ready-to-use boilerplate for initializing a Next.js p
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/next-starter-intl.git
+    git clone https://github.com/ferrefabio1987/next-starter-intl.git
     cd next-starter-intl
     ```
 
